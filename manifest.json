@@ -1,0 +1,47 @@
+{
+  "Actions": [
+    {
+      "Icon": "images/smartlife",
+      "Name": "SmartLife On/Off",
+      "States": [
+        {
+          "Image": "images/on",
+          "Name": "On",
+          "TitleAlignment": "bottom",
+          "FontSize": "16"
+        },
+        {
+          "Image": "images/off",
+          "Name": "Off",
+          "TitleAlignment": "bottom",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "See you in space cowboy",
+      "UUID": "com.elgato.smartlife.action"
+    }
+  ],
+  "SDKVersion": 2,
+  "Author": "MMgato",
+  "CodePath": "code.html",
+  "PropertyInspectorPath": "index_pi.html",
+  "Description": "Smartlife Implementation",
+  "Name": "SmartLife",
+  "Icon": "images/smartlife",
+  "URL": "https://www.elgato.com/gaming/stream-deck",
+  "Version": "1.4",
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion": "10.11"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "Software": {
+    "MinimumVersion": "4.1"
+  }
+}
