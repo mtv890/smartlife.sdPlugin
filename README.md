@@ -1,4 +1,8 @@
-Instructions:
+# Tuya Stream Deck Plugin
+
+#### This is an Stream Deck Plugin for Tuya Lights, so we dont have to envy those Philips Hue users, it generates a button that can turn on/off lights, nothing else, no fancy RGB sorry
+
+#### Instructions:
 
 1. Download as zip
 2. Paste ``smartlife.sdPlugin`` in ``C:\Users\{$USER}\AppData\Roaming\Elgato\StreamDeck\Plugins ``
